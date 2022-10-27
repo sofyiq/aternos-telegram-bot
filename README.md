@@ -1,5 +1,5 @@
 # Access your Aternos server from Telegram Bot
-> Note: this will never work on cloud 
+> Note: this will never work on cloud-based apps like heroku or repl.it
 
 ## Make a Telegram Bot
 1. Create your own telegram bot on https://telegram.me/BotFather
