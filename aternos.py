@@ -10,7 +10,6 @@ print("Note: this script will never work on cloud apps like heroku or repl.it")
 # Log in
 username = input("Please insert your username: ")
 password = input("Please insert your password: ")
-botapi = input("Please insert your Telegram Bot API: ")
 
 try:
     aternos = Client.restore_session()
