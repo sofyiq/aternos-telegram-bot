@@ -11,7 +11,7 @@
 ## Install Python
 1. Go to this website https://www.python.org/downloads/release/python-3110/ and download python
 2. Launch the installer
-3. Make sure to check ""Add Python.exe to Path
+3. Make sure to check "Add Python.exe to Path"
 4. Follow the instruction
 
 ## Launching the scripts
